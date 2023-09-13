@@ -17,7 +17,7 @@ I live in the city of Vila Velha, Brazil.<br>
     <ul/>
 </nav>
 <p>
-Contato:<br>
+Email:<br>
 jjunior.koscky@gmail.com
 </p>
 
