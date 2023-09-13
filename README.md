@@ -3,7 +3,8 @@
 
 My name is Jefferson Koscky Jr, my friends call me "JJ".<br> 
 I'm a Frontend Web Developer learning how to code better everyday.<br>
-I live in the city of Vila Velha, Brazil. - Peace!
+I live in the city of Vila Velha, Brazil.<br> 
+-Peace!
 
 (React JS | Next JS | Typescript | HTML | CSS | Tailwind | Sass | Bulma ) 🚀
 
