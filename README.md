@@ -10,7 +10,7 @@ I live in the city of Vila Velha, Brazil.<br>
 
 <nav>
     <ul>
-        <li>🎓 Artes Visuais</li>
+        <li>🎓 Visual Arts</li>
         <li>🖥️ Front-end developer</li>
         <li>🎮 Game developer - GML (hobby)</li>
         <li>🎸 Music composer (hobby)</li>
