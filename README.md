@@ -1,10 +1,13 @@
 ## Hi There! ✌🏽
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-koscky-jr/)
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-koscky-jr/) 
+<br>
 My name is Jefferson Koscky Jr, my friends call me "JJ".<br> 
 I'm a Frontend Web Developer learning how to code better everyday.<br>
 I live in the city of Vila Velha, Brazil.<br> 
 -Peace!
+
+Website <br>
+<https://jjkoscky-web.vercel.app/> <br>
 
 (React JS | Next JS | Typescript | HTML | CSS | Tailwind | Sass | Bulma ) 🚀
 
